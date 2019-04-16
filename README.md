@@ -7,7 +7,7 @@ Gradius clone for educational purpose.
 | Name         |            |
 |--------------|------------|
 | Jeongkyu Shin| Maintainer |
-
+| Jeong jong moon| Student |
 ## Credit
 
 Originally developed by https://github.com/dbinebrink/gradius
